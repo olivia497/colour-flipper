@@ -24,19 +24,19 @@ colour-flipper/
 
 💻 Installation
 To run this project locally:
-# 1. Clone the repository
+1. Clone the repository
 git clone https://github.com/your-username/colour-flipper.git
 
-# 2. Navigate to the folder
+2. Navigate to the folder
 cd colour-flipper
 
-# 3. Open the index.html file in your browser
+3. Open the index.html file in your browser
 Or simply drag and drop index.html into your browser.
 
 🧪 Sample HEX Output
-#e4b1ff
-#09a8c3
-#ff5733
+- #e4b1ff
+- #09a8c3
+- #ff5733
 
 
 🧑‍💻 Author
