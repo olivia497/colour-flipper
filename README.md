@@ -1,4 +1,5 @@
-🎨 Colour Flipper
+#🎨 Colour Flipper
+
 A fun and interactive mini-project that displays a randomly generated HEX colour on each click. The chosen colour updates both the background of a "polaroid" preview box and displays the HEX code below it.
 
 
